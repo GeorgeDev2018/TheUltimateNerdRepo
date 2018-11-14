@@ -1,0 +1,13 @@
+c:\users\timbo\documents\visual studio 2015\Projects\LengthConversions\LengthConversions\bin\Debug\LengthConversions.exe.config
+C:\Users\Timbo\Documents\Visual Studio 2015\Projects\LengthConversions\LengthConversions\bin\Debug\LengthConversions.exe
+C:\Users\Timbo\Documents\Visual Studio 2015\Projects\LengthConversions\LengthConversions\bin\Debug\LengthConversions.pdb
+C:\Users\Timbo\Documents\Visual Studio 2015\Projects\LengthConversions\LengthConversions\obj\Debug\LengthConversions.csprojResolveAssemblyReference.cache
+C:\Users\Timbo\Documents\Visual Studio 2015\Projects\LengthConversions\LengthConversions\obj\Debug\LengthConversions.exe
+C:\Users\Timbo\Documents\Visual Studio 2015\Projects\LengthConversions\LengthConversions\obj\Debug\LengthConversions.pdb
+C:\Users\Timbo\Documents\Visual Studio 2017\LengthConversions\LengthConversions\bin\Debug\LengthConversions.exe.config
+C:\Users\Timbo\Documents\Visual Studio 2017\LengthConversions\LengthConversions\bin\Debug\LengthConversions.exe
+C:\Users\Timbo\Documents\Visual Studio 2017\LengthConversions\LengthConversions\bin\Debug\LengthConversions.pdb
+C:\Users\Timbo\Documents\Visual Studio 2017\LengthConversions\LengthConversions\obj\Debug\LengthConversions.csproj.CoreCompileInputs.cache
+C:\Users\Timbo\Documents\Visual Studio 2017\LengthConversions\LengthConversions\obj\Debug\LengthConversions.exe
+C:\Users\Timbo\Documents\Visual Studio 2017\LengthConversions\LengthConversions\obj\Debug\LengthConversions.pdb
+C:\Users\Timbo\Documents\Visual Studio 2017\LengthConversions\LengthConversions\obj\Debug\LengthConversions.csprojAssemblyReference.cache
